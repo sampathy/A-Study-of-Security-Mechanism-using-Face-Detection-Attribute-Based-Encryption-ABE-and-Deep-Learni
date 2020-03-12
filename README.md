@@ -1,3 +1,3 @@
-# Objective of Research\\
+# Research Objective:
 This paper mainly focuses on data security in the field of cloud and IoT. As
 there is a tremendous growth in the usage of IoT devices, huge amount of data is being generated and this data is being stored in a virtual data center known as cloud. Since we have mechanisms which work only on encryption and decryption of the data, it is also necessary that there must be an approach or scheme which can maintain both authenticity and security for user(s) data. For this, we have proposed an experimental study which uses two emerging technologies i.e., Deep Learning and Attribute Based Encryption (ABE) to enhance security. This research also gives an overview on user(s) authenticity and security for the data using Face Detection, Attribute Based Encryption (ABE) and Convolutional Neural Networks (Covnets).
